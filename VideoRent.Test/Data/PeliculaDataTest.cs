@@ -40,7 +40,7 @@ public class PeliculaDataTest
         };
         // Act
         Assert.DoesNotThrow(() => peliculaData.Insertar(peliculaToInsert),
-            "Insertar una pelicula no debería generar una exepción");
+            "Insertar una pelicula no debería generar una excepción");
         Assert.That(peliculaToInsert.PeliculaId, Is.GreaterThan(0));
     }
 }
