@@ -10,7 +10,7 @@ public class PeliculaDataTest
     [SetUp]
     public void Setup()
     {
-        this.connectionString = "Data Source=AMENA\\SQLEXPRESS;Initial Catalog=videorent;User ID=rentinguser;Password=rentingUSER;Encrypt=False;Trust Server Certificate=True";
+        this.connectionString = "Data Source=163.178.173.130;Initial Catalog=VideoRentC02777_I2025;User ID=Lenguajes;Password=lenguajesparaiso2025;Trust Server Certificate=True";
     }
 
     [Test]

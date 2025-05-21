@@ -455,7 +455,7 @@
         },
         "runtime": {
           "VideoRent.Business.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -468,7 +468,7 @@
         },
         "runtime": {
           "VideoRent.Data.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }
@@ -476,7 +476,7 @@
       "VideoRent.Domain/1.0.0": {
         "runtime": {
           "VideoRent.Domain.dll": {
-            "assemblyVersion": "1.0.0",
+            "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
         }

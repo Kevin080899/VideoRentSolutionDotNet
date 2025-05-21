@@ -9,3 +9,15 @@ C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Domain\obj\Debug\net9
 C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Domain\obj\Debug\net9.0\refint\VideoRent.Domain.dll
 C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.pdb
 C:\SW_DEV\Lenguajes2025\DotNet\VideoRentSolution\VideoRent.Domain\obj\Debug\net9.0\ref\VideoRent.Domain.dll
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\bin\Debug\net9.0\VideoRent.Domain.deps.json
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\bin\Debug\net9.0\VideoRent.Domain.dll
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\bin\Debug\net9.0\VideoRent.Domain.pdb
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.sourcelink.json
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.dll
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\refint\VideoRent.Domain.dll
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\VideoRent.Domain.pdb
+C:\Users\Usuario\Desktop\UCR\Lenguajes\Proyecto\VideoRentSolutionDotNet\VideoRent.Domain\obj\Debug\net9.0\ref\VideoRent.Domain.dll
