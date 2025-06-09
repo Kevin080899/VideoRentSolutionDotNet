@@ -28,8 +28,8 @@ public class PeliculaDataTest
         var peliculaData = new PeliculaData(this.connectionString);
 
         // Datos de prueba
-        var genero = new Genero { GeneroId = 2090, NombreGenero = "Action" }; // Usar un GeneroId existente en b.d. de pruebas
-        var actor1 = new Actor { ActorId = 1120, NombreActor = "Keanu", ApellidosActor ="Reeve" };    
+        var genero = new Genero { GeneroId = 5, NombreGenero = "Action" }; // Usar un GeneroId existente en b.d. de pruebas
+        var actor1 = new Actor { ActorId = 44, NombreActor = "Keanu", ApellidosActor ="Reeve" };    
         var peliculaToInsert = new Pelicula
         {
             Titulo = "Matrix 1", 
