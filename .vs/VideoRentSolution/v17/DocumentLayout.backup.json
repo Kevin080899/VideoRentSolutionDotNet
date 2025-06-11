@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\UCR\\Lenguajes\\Proyecto\\VideoRentSolutionDotNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|c:\\users\\usuario\\desktop\\ucr\\lenguajes\\proyecto\\videorentsolutiondotnet\\videorent.data\\generodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82D63247-13EC-428A-B1E8-F24CBC62388F}|VideoRent.Data\\VideoRent.Data.csproj|solutionrelative:videorent.data\\generodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B34B9BF-4644-4A94-8CC9-5D95D4FACD99}|VideoRent.Business\\VideoRent.Business.csproj|c:\\users\\usuario\\desktop\\ucr\\lenguajes\\proyecto\\videorentsolutiondotnet\\videorent.business\\generobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B34B9BF-4644-4A94-8CC9-5D95D4FACD99}|VideoRent.Business\\VideoRent.Business.csproj|solutionrelative:videorent.business\\generobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GeneroData.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UCR\\Lenguajes\\Proyecto\\VideoRentSolutionDotNet\\VideoRent.Data\\GeneroData.cs",
-              "RelativeDocumentMoniker": "VideoRent.Data\\GeneroData.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UCR\\Lenguajes\\Proyecto\\VideoRentSolutionDotNet\\VideoRent.Data\\GeneroData.cs",
-              "RelativeToolTip": "VideoRent.Data\\GeneroData.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Title": "GeneroBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\UCR\\Lenguajes\\Proyecto\\VideoRentSolutionDotNet\\VideoRent.Business\\GeneroBusiness.cs",
+              "RelativeDocumentMoniker": "VideoRent.Business\\GeneroBusiness.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\UCR\\Lenguajes\\Proyecto\\VideoRentSolutionDotNet\\VideoRent.Business\\GeneroBusiness.cs",
+              "RelativeToolTip": "VideoRent.Business\\GeneroBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-09T19:08:19.711Z",
+              "WhenOpened": "2025-06-09T19:32:03.454Z",
               "EditorCaption": ""
             }
           ]
